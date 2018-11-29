@@ -1,3 +1,3 @@
-echo "// *** Starts build.sh. *** //"
+echo "// *** Starts verify.sh. *** //"
 ./gradlew clean verify
-echo "// *** Ends build.sh. *** //"
+echo "// *** Ends verify.sh. *** //"
